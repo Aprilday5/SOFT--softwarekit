@@ -1,0 +1,6 @@
+/mnt/hgfs/branches/clionproj/cmake_demo/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/branches/clionproj/cmake_demo/build/CMakeFiles/Demo.dir
+/mnt/hgfs/branches/clionproj/cmake_demo/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/branches/clionproj/cmake_demo/build/math/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/branches/clionproj/cmake_demo/build/math/CMakeFiles/MathFunctions.dir
+/mnt/hgfs/branches/clionproj/cmake_demo/build/math/CMakeFiles/edit_cache.dir
