@@ -1,0 +1,406 @@
+
+Start-Date: 2018-04-26  18:10:35
+Commandline: apt-get install --reinstall adduser apt base-files base-passwd bash bsdutils bzip2 coreutils dash debconf debianutils diffutils dpkg e2fsprogs fdisk findutils gcc-8-base:armhf gpgv grep gzip hostname init-system-helpers libacl1:armhf libapt-pkg5.0:armhf libattr1:armhf libaudit-common libaudit1:armhf libblkid1:armhf libbz2-1.0:armhf libc-bin libc6:armhf libcap-ng0:armhf libcom-err2:armhf libdb5.3:armhf libdebconfclient0:armhf libext2fs2:armhf libfdisk1:armhf libffi6:armhf libgcc1:armhf libgcrypt20:armhf libgmp10:armhf libgnutls30:armhf libgpg-error0:armhf libhogweed4:armhf libidn2-0:armhf liblz4-1:armhf liblzma5:armhf libmount1:armhf libncurses5:armhf libncursesw5:armhf libnettle6:armhf libp11-kit0:armhf libpam-modules:armhf libpam-modules-bin libpam-runtime libpam0g:armhf libpcre3:armhf libprocps6:armhf libseccomp2:armhf libselinux1:armhf libsemanage-common libsemanage1:armhf libsepol1:armhf libsmartcols1:armhf libss2:armhf libstdc++6:armhf libsystemd0:armhf libtasn1-6:armhf libtinfo5:armhf libudev1:armhf libunistring2:armhf libuuid1:armhf libzstd1:armhf login lsb-base mawk mount ncurses-base ncurses-bin passwd perl-base procps sed sensible-utils sysvinit-utils tar ubuntu-keyring util-linux zlib1g:armhf
+Reinstall: libpam0g:armhf (1.1.8-3.6ubuntu2), debconf:armhf (1.5.66), fdisk:armhf (2.31.1-0.4ubuntu3), perl-base:armhf (5.26.1-6), init-system-helpers:armhf (1.51), ubuntu-keyring:armhf (2018.02.28), libseccomp2:armhf (2.3.1-2.1ubuntu4), diffutils:armhf (1:3.6-1), libaudit-common:armhf (1:2.8.2-1ubuntu1), libcom-err2:armhf (1.44.1-1), libsemanage1:armhf (2.7-2build2), sysvinit-utils:armhf (2.88dsf-59.10ubuntu1), libfdisk1:armhf (2.31.1-0.4ubuntu3), libpam-modules:armhf (1.1.8-3.6ubuntu2), libsystemd0:armhf (237-3ubuntu10), base-passwd:armhf (3.5.44), dash:armhf (0.5.8-2.10), apt:armhf (1.6.1), libacl1:armhf (2.2.52-3build1), libmount1:armhf (2.31.1-0.4ubuntu3), gcc-8-base:armhf (8-20180414-1ubuntu2), libbz2-1.0:armhf (1.0.6-8.1), libgpg-error0:armhf (1.27-6), e2fsprogs:armhf (1.44.1-1), zlib1g:armhf (1:1.2.11.dfsg-0ubuntu2), libgmp10:armhf (2:6.1.2+dfsg-2), libncurses5:armhf (6.1-1ubuntu1), libc6:armhf (2.27-3ubuntu1), util-linux:armhf (2.31.1-0.4ubuntu3), coreutils:armhf (8.28-1ubuntu1), libsepol1:armhf (2.7-1), passwd:armhf (1:4.5-1ubuntu1), procps:armhf (2:3.3.12-3ubuntu1), libpam-runtime:armhf (1.1.8-3.6ubuntu2), libapt-pkg5.0:armhf (1.6.1), libncursesw5:armhf (6.1-1ubuntu1), libprocps6:armhf (2:3.3.12-3ubuntu1), debianutils:armhf (4.8.4), libudev1:armhf (237-3ubuntu10), adduser:armhf (3.116ubuntu1), libgcc1:armhf (1:8-20180414-1ubuntu2), libss2:armhf (1.44.1-1), mount:armhf (2.31.1-0.4ubuntu3), libsemanage-common:armhf (2.7-2build2), libext2fs2:armhf (1.44.1-1), libattr1:armhf (1:2.4.47-2build1), libblkid1:armhf (2.31.1-0.4ubuntu3), dpkg:armhf (1.19.0.5ubuntu2), libc-bin:armhf (2.27-3ubuntu1), libtinfo5:armhf (6.1-1ubuntu1), libpcre3:armhf (2:8.39-9), sed:armhf (4.4-2), tar:armhf (1.29b-2), mawk:armhf (1.3.3-17ubuntu3), libuuid1:armhf (2.31.1-0.4ubuntu3), libgcrypt20:armhf (1.8.1-4ubuntu1), libselinux1:armhf (2.7-2build2), liblz4-1:armhf (0.0~r131-2ubuntu3), gpgv:armhf (2.2.4-1ubuntu1), libsmartcols1:armhf (2.31.1-0.4ubuntu3), grep:armhf (3.1-2), login:armhf (1:4.5-1ubuntu1), libhogweed4:armhf (3.4-1), ncurses-bin:armhf (6.1-1ubuntu1), libpam-modules-bin:armhf (1.1.8-3.6ubuntu2), libdb5.3:armhf (5.3.28-13.1ubuntu1), bzip2:armhf (1.0.6-8.1), bsdutils:armhf (1:2.31.1-0.4ubuntu3), libnettle6:armhf (3.4-1), ncurses-base:armhf (6.1-1ubuntu1), bash:armhf (4.4.18-2ubuntu1), findutils:armhf (4.6.0+git+20170828-2), libcap-ng0:armhf (0.7.7-3.1), libgnutls30:armhf (3.5.18-1ubuntu1), libffi6:armhf (3.2.1-8), libunistring2:armhf (0.9.9-0ubuntu1), libp11-kit0:armhf (0.23.9-2), libzstd1:armhf (1.3.3+dfsg-2ubuntu1), lsb-base:armhf (9.20170808ubuntu1), gzip:armhf (1.6-5ubuntu1), libtasn1-6:armhf (4.13-2), liblzma5:armhf (5.2.2-1.3), libstdc++6:armhf (8-20180414-1ubuntu2), libidn2-0:armhf (2.0.4-1.1build2), libaudit1:armhf (1:2.8.2-1ubuntu1), sensible-utils:armhf (0.0.12), hostname:armhf (3.20), libdebconfclient0:armhf (0.213ubuntu1), base-files:armhf (10.1ubuntu2)
+End-Date: 2018-04-26  18:11:31
+
+Start-Date: 2020-07-15  06:07:16
+Commandline: /usr/bin/apt install sudo
+Install: sudo:armhf (1.8.21p2-3ubuntu1.2)
+End-Date: 2020-07-15  06:07:17
+
+Start-Date: 2020-07-15  06:07:40
+Commandline: /usr/bin/apt install language-pack-en-base
+Install: locales:armhf (2.27-3ubuntu1.2, automatic), language-pack-en:armhf (1:18.04+20200702, automatic), language-pack-en-base:armhf (1:18.04+20180712)
+End-Date: 2020-07-15  06:09:21
+
+Start-Date: 2020-07-15  06:10:09
+Commandline: /usr/bin/apt install ssh
+Install: libxdmcp6:armhf (1:1.1.2-3, automatic), libdevmapper1.02.1:armhf (2:1.02.145-4.1ubuntu3.18.04.3, automatic), dmsetup:armhf (2:1.02.145-4.1ubuntu3.18.04.3, automatic), libkrb5-3:armhf (1.16-2ubuntu0.1, automatic), libgssapi-krb5-2:armhf (1.16-2ubuntu0.1, automatic), libpython3.6-minimal:armhf (3.6.9-1~18.04ubuntu1, automatic), libdbus-1-3:armhf (1.12.2-1ubuntu1.2, automatic), networkd-dispatcher:armhf (1.7-0ubuntu3.3, automatic), publicsuffix:armhf (20180223.1310-1, automatic), openssl:armhf (1.1.1-1ubuntu2.1~18.04.6, automatic), libgirepository-1.0-1:armhf (1.56.1-1, automatic), libargon2-0:armhf (0~20161029-1.1, automatic), xdg-user-dirs:armhf (0.17-1ubuntu1, automatic), dbus:armhf (1.12.2-1ubuntu1.2, automatic), libkmod2:armhf (24-1ubuntu3.4, automatic), libpsl5:armhf (0.19.1-5build1, automatic), libsqlite3-0:armhf (3.22.0-1ubuntu0.4, automatic), libpython3.6-stdlib:armhf (3.6.9-1~18.04ubuntu1, automatic), libicu60:armhf (60.2-3ubuntu3.1, automatic), python3-urllib3:armhf (1.22-1ubuntu0.18.04.1, automatic), libbsd0:armhf (0.8.7-1ubuntu0.1, automatic), libwrap0:armhf (7.6.q-27, automatic), python3.6:armhf (3.6.9-1~18.04ubuntu1, automatic), openssh-sftp-server:armhf (1:7.6p1-4ubuntu0.4, automatic), python3:armhf (3.6.7-1~18.04, automatic), libk5crypto3:armhf (1.16-2ubuntu0.1, automatic), python3-idna:armhf (2.6-1, automatic), mime-support:armhf (3.60ubuntu1, automatic), python3-six:armhf (1.11.0-2, automatic), readline-common:armhf (7.0-3, automatic), libmagic1:armhf (1:5.32-2ubuntu0.4, automatic), libmpdec2:armhf (2.4.2-1ubuntu1, automatic), libx11-6:armhf (2:1.6.4-3ubuntu0.2, automatic), python3-requests:armhf (2.18.4-2ubuntu0.1, automatic), libexpat1:armhf (2.2.5-3ubuntu0.2, automatic), libapparmor1:armhf (2.12-4ubuntu5.1, automatic), krb5-locales:armhf (1.16-2ubuntu0.1, automatic), python3.6-minimal:armhf (3.6.9-1~18.04ubuntu1, automatic), python3-minimal:armhf (3.6.7-1~18.04, automatic), libxau6:armhf (1:1.0.8-1ubuntu1, automatic), libmagic-mgc:armhf (1:5.32-2ubuntu0.4, automatic), gir1.2-glib-2.0:armhf (1.56.1-1, automatic), libxcb1:armhf (1.13-2~ubuntu18.04, automatic), libkrb5support0:armhf (1.16-2ubuntu0.1, automatic), libcap2:armhf (1:2.25-1.2, automatic), libpython3-stdlib:armhf (3.6.7-1~18.04, automatic), ssh:armhf (1:7.6p1-4ubuntu0.4), systemd-sysv:armhf (237-3ubuntu10.41, automatic), ucf:armhf (3.0038, automatic), libkeyutils1:armhf (1.5.9-9.2ubuntu2, automatic), libxmuu1:armhf (2:1.1.2-2, automatic), libpam-systemd:armhf (237-3ubuntu10.41, automatic), xz-utils:armhf (5.2.2-1.3, automatic), ncurses-term:armhf (6.1-1ubuntu1.18.04, automatic), python3-pkg-resources:armhf (39.0.1-2, automatic), shared-mime-info:armhf (1.9-2, automatic), systemd:armhf (237-3ubuntu10.41, automatic), openssh-server:armhf (1:7.6p1-4ubuntu0.4, automatic), libx11-data:armhf (2:1.6.4-3ubuntu0.2, automatic), libreadline7:armhf (7.0-3, automatic), openssh-client:armhf (1:7.6p1-4ubuntu0.4, automatic), libnss-systemd:armhf (237-3ubuntu10.41, automatic), python3-dbus:armhf (1.2.6-1, automatic), libglib2.0-data:armhf (2.56.4-0ubuntu0.18.04.6, automatic), libxml2:armhf (2.9.4+dfsg1-6.1ubuntu1.3, automatic), file:armhf (1:5.32-2ubuntu0.4, automatic), python3-gi:armhf (3.26.1-2ubuntu1, automatic), libidn11:armhf (1.33-2.1ubuntu1.2, automatic), multiarch-support:armhf (2.27-3ubuntu1.2, automatic), libedit2:armhf (3.1-20170329-1, automatic), ca-certificates:armhf (20190110~18.04.1, automatic), xauth:armhf (1:1.0.10-1, automatic), ssh-import-id:armhf (5.7-0ubuntu1.1, automatic), wget:armhf (1.19.4-1ubuntu2.2, automatic), libcryptsetup12:armhf (2:2.0.2-1ubuntu1.1, automatic), libssl1.1:armhf (1.1.1-1ubuntu2.1~18.04.6, automatic), libjson-c3:armhf (0.12.1-1.3ubuntu0.3, automatic), libip4tc0:armhf (1.6.1-2ubuntu2, automatic), python3-certifi:armhf (2018.1.18-2, automatic), python3-chardet:armhf (3.0.4-1, automatic), libglib2.0-0:armhf (2.56.4-0ubuntu0.18.04.6, automatic), libssl1.0.0:armhf (1.0.2n-1ubuntu5.3, automatic), libxext6:armhf (2:1.3.3-1, automatic)
+Upgrade: libsystemd0:armhf (237-3ubuntu10, 237-3ubuntu10.41)
+End-Date: 2020-07-15  06:12:03
+
+Start-Date: 2020-07-15  06:13:40
+Commandline: /usr/bin/apt install ethtool
+Install: ethtool:armhf (1:4.15-0ubuntu1)
+End-Date: 2020-07-15  06:13:40
+
+Start-Date: 2020-07-15  06:14:13
+Commandline: /usr/bin/apt install ifupdown
+Install: ifupdown:armhf (0.8.17ubuntu1.1), libelf1:armhf (0.170-0.4ubuntu0.1, automatic), isc-dhcp-common:armhf (4.3.5-3ubuntu7.1, automatic), libisc-export169:armhf (1:9.11.3+dfsg-1ubuntu1.12, automatic), libatm1:armhf (1:2.5.1-2build1, automatic), iproute2:armhf (4.15.0-2ubuntu1.1, automatic), libdns-export1100:armhf (1:9.11.3+dfsg-1ubuntu1.12, automatic), libxtables12:armhf (1.6.1-2ubuntu2, automatic), isc-dhcp-client:armhf (4.3.5-3ubuntu7.1, automatic), libmnl0:armhf (1.0.4-2, automatic)
+End-Date: 2020-07-15  06:14:19
+
+Start-Date: 2020-07-15  06:14:37
+Commandline: /usr/bin/apt install iputils-ping
+Install: libpam-cap:armhf (1:2.25-1.2, automatic), libcap2-bin:armhf (1:2.25-1.2, automatic), iputils-ping:armhf (3:20161105-1ubuntu3)
+End-Date: 2020-07-15  06:14:39
+
+Start-Date: 2020-07-15  06:15:00
+Commandline: /usr/bin/apt install rsyslog
+Install: libpopt0:armhf (1.16-11, automatic), libfastjson4:armhf (0.99.8-2, automatic), rsyslog:armhf (8.32.0-1ubuntu4), libestr0:armhf (0.1.10-2.1, automatic), logrotate:armhf (3.11.0-0.1ubuntu1, automatic), cron:armhf (3.0pl1-128.1ubuntu1, automatic)
+End-Date: 2020-07-15  06:15:10
+
+Start-Date: 2020-07-15  06:20:35
+Commandline: /usr/bin/apt install htop
+Install: htop:armhf (2.1.0-3)
+End-Date: 2020-07-15  06:20:35
+
+Start-Date: 2020-07-15  06:21:03
+Commandline: /usr/bin/apt install vim
+Install: vim-common:armhf (2:8.0.1453-1ubuntu1.3, automatic), libpython3.6:armhf (3.6.9-1~18.04ubuntu1, automatic), vim-runtime:armhf (2:8.0.1453-1ubuntu1.3, automatic), vim:armhf (2:8.0.1453-1ubuntu1.3), xxd:armhf (2:8.0.1453-1ubuntu1.3, automatic), libgpm2:armhf (1.20.7-5, automatic)
+End-Date: 2020-07-15  06:21:09
+
+Start-Date: 2020-07-15  06:21:38
+Commandline: /usr/bin/apt install bash-completion
+Install: bash-completion:armhf (1:2.8-1ubuntu1)
+End-Date: 2020-07-15  06:22:10
+
+Start-Date: 2020-07-15  06:24:44
+Commandline: /usr/bin/apt install net-tools
+Install: net-tools:armhf (1.60+git20161116.90da8a0-1ubuntu1)
+End-Date: 2020-07-15  06:24:44
+
+Start-Date: 2020-07-17  11:35:26
+Commandline: /usr/bin/apt-get install curl wget apt-transport-https ca-certificates
+Install: libgssapi3-heimdal:armhf (7.5.0+dfsg-1, automatic), libnghttp2-14:armhf (1.30.0-1ubuntu1, automatic), libwind0-heimdal:armhf (7.5.0+dfsg-1, automatic), libsasl2-modules-db:armhf (2.1.27~101-g0780600+dfsg-3ubuntu2.1, automatic), libcurl4:armhf (7.58.0-2ubuntu3.9, automatic), libldap-2.4-2:armhf (2.4.45+dfsg-1ubuntu1.6, automatic), libheimntlm0-heimdal:armhf (7.5.0+dfsg-1, automatic), libheimbase1-heimdal:armhf (7.5.0+dfsg-1, automatic), libsasl2-2:armhf (2.1.27~101-g0780600+dfsg-3ubuntu2.1, automatic), librtmp1:armhf (2.4+20151223.gitfa8646d.1-1, automatic), libsasl2-modules:armhf (2.1.27~101-g0780600+dfsg-3ubuntu2.1, automatic), libldap-common:armhf (2.4.45+dfsg-1ubuntu1.6, automatic), libhcrypto4-heimdal:armhf (7.5.0+dfsg-1, automatic), libroken18-heimdal:armhf (7.5.0+dfsg-1, automatic), libasn1-8-heimdal:armhf (7.5.0+dfsg-1, automatic), libkrb5-26-heimdal:armhf (7.5.0+dfsg-1, automatic), apt-transport-https:armhf (1.6.12ubuntu0.1), curl:armhf (7.58.0-2ubuntu3.9), libhx509-5-heimdal:armhf (7.5.0+dfsg-1, automatic)
+End-Date: 2020-07-17  11:35:30
+
+Start-Date: 2020-07-17  11:36:51
+Commandline: /usr/bin/apt-get install -y -qq apt-transport-https ca-certificates curl gnupg
+Install: gnupg-utils:armhf (2.2.4-1ubuntu1.2, automatic), gpg-wks-client:armhf (2.2.4-1ubuntu1.2, automatic), gnupg-l10n:armhf (2.2.4-1ubuntu1.2, automatic), libksba8:armhf (1.3.5-2, automatic), gpg-wks-server:armhf (2.2.4-1ubuntu1.2, automatic), gpg:armhf (2.2.4-1ubuntu1.2, automatic), libassuan0:armhf (2.5.1-2, automatic), dirmngr:armhf (2.2.4-1ubuntu1.2, automatic), gnupg:armhf (2.2.4-1ubuntu1.2), pinentry-curses:armhf (1.1.0-1, automatic), libnpth0:armhf (1.5-3, automatic), gpg-agent:armhf (2.2.4-1ubuntu1.2, automatic), gpgconf:armhf (2.2.4-1ubuntu1.2, automatic), gpgsm:armhf (2.2.4-1ubuntu1.2, automatic)
+Upgrade: gpgv:armhf (2.2.4-1ubuntu1, 2.2.4-1ubuntu1.2)
+End-Date: 2020-07-17  11:36:55
+
+Start-Date: 2020-07-17  11:37:32
+Commandline: /usr/bin/apt-get install -y -qq --no-install-recommends docker-ce
+Install: containerd.io:armhf (1.2.13-2, automatic), iptables:armhf (1.6.1-2ubuntu2, automatic), libip6tc0:armhf (1.6.1-2ubuntu2, automatic), libiptc0:armhf (1.6.1-2ubuntu2, automatic), libnfnetlink0:armhf (1.0.1-3, automatic), libnetfilter-conntrack3:armhf (1.0.6-2, automatic), docker-ce:armhf (5:19.03.12~3-0~ubuntu-bionic), docker-ce-cli:armhf (5:19.03.12~3-0~ubuntu-bionic, automatic)
+Upgrade: libseccomp2:armhf (2.3.1-2.1ubuntu4, 2.4.3-1ubuntu3.18.04.3)
+End-Date: 2020-07-17  11:37:54
+
+Start-Date: 2020-07-18  04:34:29
+Commandline: /usr/bin/apt-get install apt-transport-https ca-certificates curl gnupg-agent software-properties-common
+Install: iso-codes:armhf (3.79-1, automatic), gnupg-agent:armhf (2.2.4-1ubuntu1.2), libapt-inst2.0:armhf (1.6.12ubuntu0.1, automatic), python3-software-properties:armhf (0.96.24.32.13, automatic), powermgmt-base:armhf (1.33, automatic), python-apt-common:armhf (1.6.5ubuntu0.3, automatic), distro-info-data:armhf (0.37ubuntu0.7, automatic), lsb-release:armhf (9.20170808ubuntu1, automatic), unattended-upgrades:armhf (1.1ubuntu1.18.04.14, automatic), python3-apt:armhf (1.6.5ubuntu0.3, automatic), software-properties-common:armhf (0.96.24.32.13)
+Upgrade: apt:armhf (1.6.1, 1.6.12ubuntu0.1), libapt-pkg5.0:armhf (1.6.1, 1.6.12ubuntu0.1)
+End-Date: 2020-07-18  04:34:50
+
+Start-Date: 2020-07-20  01:26:04
+Commandline: /usr/bin/apt-get install kmod
+Install: kmod:armhf (24-1ubuntu3.4)
+End-Date: 2020-07-20  01:26:05
+
+Start-Date: 2020-07-20  05:53:17
+Commandline: /usr/bin/apt-get install wireless-tools
+Install: wireless-tools:armhf (30~pre9-12ubuntu1), libiw30:armhf (30~pre9-12ubuntu1, automatic)
+End-Date: 2020-07-20  05:53:18
+
+Start-Date: 2020-07-20  13:32:39
+Commandline: /usr/bin/apt-get install docker-compose
+Install: python-six:armhf (1.11.0-2, automatic), python-openssl:armhf (17.5.0-1ubuntu1, automatic), python-jsonschema:armhf (2.6.0-2, automatic), python-yaml:armhf (3.12-1build2, automatic), git-man:armhf (1:2.17.1-1ubuntu0.7, automatic), python-docker:armhf (2.5.1-1, automatic), python-requests:armhf (2.18.4-2ubuntu0.1, automatic), python2.7-minimal:armhf (2.7.17-1~18.04ubuntu1, automatic), libsecret-1-0:armhf (0.18.6-1, automatic), python-docopt:armhf (0.6.2-1build1, automatic), perl-modules-5.26:armhf (5.26.1-6ubuntu0.3, automatic), docker-compose:armhf (1.17.1-2), python2.7:armhf (2.7.17-1~18.04ubuntu1, automatic), netbase:armhf (5.4, automatic), git:armhf (1:2.17.1-1ubuntu0.7, automatic), cgroupfs-mount:armhf (1.4, automatic), python-certifi:armhf (2018.1.18-2, automatic), python-chardet:armhf (3.0.4-1, automatic), libsecret-common:armhf (0.18.6-1, automatic), python:armhf (2.7.15~rc1-1, automatic), python-enum34:armhf (1.1.6-2, automatic), python-dockerpty:armhf (0.4.1-1, automatic), libperl5.26:armhf (5.26.1-6ubuntu0.3, automatic), python-cryptography:armhf (2.1.4-1ubuntu1.3, automatic), libpython-stdlib:armhf (2.7.15~rc1-1, automatic), python-cffi-backend:armhf (1.11.5-1, automatic), python-ipaddress:armhf (1.0.17-1, automatic), python-cached-property:armhf (1.3.1-1, automatic), libgdbm5:armhf (1.14.1-6, automatic), python-pkg-resources:armhf (39.0.1-2, automatic), python-functools32:armhf (3.2.3.2-3, automatic), python-backports.ssl-match-hostname:armhf (3.5.0.1-1, automatic), python-urllib3:armhf (1.22-1ubuntu0.18.04.1, automatic), golang-docker-credential-helpers:armhf (0.5.0-2, automatic), python-dockerpycreds:armhf (0.2.1-1, automatic), python-funcsigs:armhf (1.0.2-4, automatic), libpython2.7-minimal:armhf (2.7.17-1~18.04ubuntu1, automatic), perl:armhf (5.26.1-6ubuntu0.3, automatic), apparmor:armhf (2.12-4ubuntu5.1, automatic), python-idna:armhf (2.6-1, automatic), python-websocket:armhf (0.44.0-0ubuntu2, automatic), libyaml-0-2:armhf (0.1.7-2ubuntu3, automatic), libgdbm-compat4:armhf (1.14.1-6, automatic), libpython2.7-stdlib:armhf (2.7.17-1~18.04ubuntu1, automatic), pigz:armhf (2.4-1, automatic), python-mock:armhf (2.0.0-3, automatic), patch:armhf (2.7.6-2ubuntu1.1, automatic), python-minimal:armhf (2.7.15~rc1-1, automatic), python-texttable:armhf (0.9.1-1, automatic), python-pbr:armhf (3.1.1-3ubuntu3, automatic), python-asn1crypto:armhf (0.24.0-1, automatic), libcurl3-gnutls:armhf (7.58.0-2ubuntu3.9, automatic), less:armhf (487-0.1, automatic), liberror-perl:armhf (0.17025-1, automatic)
+Upgrade: perl-base:armhf (5.26.1-6, 5.26.1-6ubuntu0.3)
+End-Date: 2020-07-20  13:33:30
+
+Start-Date: 2020-07-23  02:43:56
+Commandline: /usr/bin/apt-get install wpasupplicant
+Install: libpcsclite1:armhf (1.8.23-1, automatic), libnl-genl-3-200:armhf (3.2.29-0ubuntu3, automatic), libnl-3-200:armhf (3.2.29-0ubuntu3, automatic), wpasupplicant:armhf (2:2.6-15ubuntu2.5)
+End-Date: 2020-07-23  02:44:00
+
+Start-Date: 2020-09-07  09:14:53
+Commandline: /usr/bin/apt-get install alsa
+Install: alsa-base:armhf (1.0.25+dfsg-0ubuntu5), libasound2-data:armhf (1.1.3-5ubuntu0.5, automatic), linux-sound-base:armhf (1.0.25+dfsg-0ubuntu5, automatic), udev:armhf (237-3ubuntu10.42, automatic), alsa-utils:armhf (1.1.3-1ubuntu1, automatic), whiptail:armhf (0.52.20-1ubuntu1, automatic), libnewt0.52:armhf (0.52.20-1ubuntu1, automatic), libgomp1:armhf (8.4.0-1ubuntu1~18.04, automatic), libasound2:armhf (1.1.3-5ubuntu0.5, automatic), libsamplerate0:armhf (0.1.9-1, automatic), libfribidi0:armhf (0.19.7-2, automatic), libfftw3-single3:armhf (3.3.7-1, automatic), libslang2:armhf (2.3.1a-3ubuntu1, automatic)
+Upgrade: gcc-8-base:armhf (8-20180414-1ubuntu2, 8.4.0-1ubuntu1~18.04), libudev1:armhf (237-3ubuntu10, 237-3ubuntu10.42), libgcc1:armhf (1:8-20180414-1ubuntu2, 1:8.4.0-1ubuntu1~18.04), libstdc++6:armhf (8-20180414-1ubuntu2, 8.4.0-1ubuntu1~18.04)
+End-Date: 2020-09-07  09:15:10
+
+Start-Date: 2020-09-08  03:54:17
+Commandline: /usr/bin/apt-get install ntfs-3g
+Install: fuse:armhf (2.9.7-1ubuntu1, automatic), ntfs-3g:armhf (1:2017.3.23-2ubuntu0.18.04.2), libfuse2:armhf (2.9.7-1ubuntu1, automatic), libntfs-3g88:armhf (1:2017.3.23-2ubuntu0.18.04.2, automatic)
+End-Date: 2020-09-08  03:54:19
+
+Start-Date: 2020-09-08  04:58:09
+Commandline: /usr/bin/apt-get install tzdata
+Install: tzdata:armhf (2020a-0ubuntu0.18.04)
+End-Date: 2020-09-08  04:58:33
+
+Start-Date: 2020-09-16  10:11:12
+Commandline: /usr/bin/apt-get install udhcpc
+Install: udhcpc:armhf (1:1.27.2-2ubuntu3.2), busybox:armhf (1:1.27.2-2ubuntu3.2, automatic)
+End-Date: 2020-09-16  10:11:13
+
+Start-Date: 2020-09-16  10:11:22
+Commandline: /usr/bin/apt-get install udhcpd
+Install: udhcpd:armhf (1:1.27.2-2ubuntu3.2)
+End-Date: 2020-09-16  10:11:23
+
+Start-Date: 2020-09-18  11:49:05
+Commandline: /usr/bin/apt-get install hostapd
+Install: libnl-route-3-200:armhf (3.2.29-0ubuntu3, automatic), hostapd:armhf (2:2.6-15ubuntu2.5)
+End-Date: 2020-09-18  11:49:08
+
+Start-Date: 2020-12-03  10:42:30
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: base-files:armhf (10.1ubuntu2, 10.1ubuntu2.2)
+End-Date: 2020-12-03  10:42:38
+
+Start-Date: 2020-12-03  10:42:50
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: bsdutils:armhf (1:2.31.1-0.4ubuntu3, 1:2.31.1-0.4ubuntu3.7)
+End-Date: 2020-12-03  10:42:51
+
+Start-Date: 2020-12-03  10:43:05
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: busybox:armhf (1:1.27.2-2ubuntu3.2, 1:1.27.2-2ubuntu3.3)
+End-Date: 2020-12-03  10:43:05
+
+Start-Date: 2020-12-03  10:43:19
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: ca-certificates:armhf (20190110~18.04.1, 20201027ubuntu0.18.04.1)
+End-Date: 2020-12-03  10:43:50
+
+Start-Date: 2020-12-03  10:44:03
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: distro-info-data:armhf (0.37ubuntu0.7, 0.37ubuntu0.9)
+End-Date: 2020-12-03  10:44:04
+
+Start-Date: 2020-12-03  10:44:17
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: fdisk:armhf (2.31.1-0.4ubuntu3, 2.31.1-0.4ubuntu3.7)
+End-Date: 2020-12-03  10:44:18
+
+Start-Date: 2020-12-03  10:44:31
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: krb5-locales:armhf (1.16-2ubuntu0.1, 1.16-2ubuntu0.2)
+End-Date: 2020-12-03  10:44:32
+
+Start-Date: 2020-12-03  10:44:45
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libblkid1:armhf (2.31.1-0.4ubuntu3, 2.31.1-0.4ubuntu3.7)
+End-Date: 2020-12-03  10:44:46
+
+Start-Date: 2020-12-03  10:44:59
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libc-bin:armhf (2.27-3ubuntu1, 2.27-3ubuntu1.2)
+End-Date: 2020-12-03  10:45:01
+
+Start-Date: 2020-12-03  10:45:15
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libc6:armhf (2.27-3ubuntu1, 2.27-3ubuntu1.2)
+End-Date: 2020-12-03  10:45:20
+
+Start-Date: 2020-12-03  10:45:33
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libcom-err2:armhf (1.44.1-1, 1.44.1-1ubuntu1.3)
+End-Date: 2020-12-03  10:45:34
+
+Start-Date: 2020-12-03  10:45:48
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libcurl3-gnutls:armhf (7.58.0-2ubuntu3.9, 7.58.0-2ubuntu3.10)
+End-Date: 2020-12-03  10:45:48
+
+Start-Date: 2020-12-03  10:46:02
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libdb5.3:armhf (5.3.28-13.1ubuntu1, 5.3.28-13.1ubuntu1.1)
+End-Date: 2020-12-03  10:46:03
+
+Start-Date: 2020-12-03  10:46:16
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libdns-export1100:armhf (1:9.11.3+dfsg-1ubuntu1.12, 1:9.11.3+dfsg-1ubuntu1.13)
+End-Date: 2020-12-03  10:46:17
+
+Start-Date: 2020-12-03  10:46:30
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libfdisk1:armhf (2.31.1-0.4ubuntu3, 2.31.1-0.4ubuntu3.7)
+End-Date: 2020-12-03  10:46:31
+
+Start-Date: 2020-12-03  10:46:44
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libgcrypt20:armhf (1.8.1-4ubuntu1, 1.8.1-4ubuntu1.2)
+End-Date: 2020-12-03  10:46:45
+
+Start-Date: 2020-12-03  10:46:58
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libgnutls30:armhf (3.5.18-1ubuntu1, 3.5.18-1ubuntu1.3)
+End-Date: 2020-12-03  10:46:59
+
+Start-Date: 2020-12-03  10:47:13
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libidn2-0:armhf (2.0.4-1.1build2, 2.0.4-1.1ubuntu0.2)
+End-Date: 2020-12-03  10:47:14
+
+Start-Date: 2020-12-03  10:47:28
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libisc-export169:armhf (1:9.11.3+dfsg-1ubuntu1.12, 1:9.11.3+dfsg-1ubuntu1.13)
+End-Date: 2020-12-03  10:47:28
+
+Start-Date: 2020-12-03  10:47:42
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libk5crypto3:armhf (1.16-2ubuntu0.1, 1.16-2ubuntu0.2)
+End-Date: 2020-12-03  10:47:43
+
+Start-Date: 2020-12-03  10:47:56
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libldap-common:armhf (2.4.45+dfsg-1ubuntu1.6, 2.4.45+dfsg-1ubuntu1.8)
+End-Date: 2020-12-03  10:47:57
+
+Start-Date: 2020-12-03  10:48:10
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libmount1:armhf (2.31.1-0.4ubuntu3, 2.31.1-0.4ubuntu3.7)
+End-Date: 2020-12-03  10:48:11
+
+Start-Date: 2020-12-03  10:48:25
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libprocps6:armhf (2:3.3.12-3ubuntu1, 2:3.3.12-3ubuntu1.1)
+End-Date: 2020-12-03  10:48:26
+
+Start-Date: 2020-12-03  10:48:40
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libsmartcols1:armhf (2.31.1-0.4ubuntu3, 2.31.1-0.4ubuntu3.7)
+End-Date: 2020-12-03  10:48:41
+
+Start-Date: 2020-12-03  10:48:54
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libss2:armhf (1.44.1-1, 1.44.1-1ubuntu1.3)
+End-Date: 2020-12-03  10:48:55
+
+Start-Date: 2020-12-03  10:49:08
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libssl1.0.0:armhf (1.0.2n-1ubuntu5.3, 1.0.2n-1ubuntu5.4)
+End-Date: 2020-12-03  10:49:10
+
+Start-Date: 2020-12-03  10:49:24
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libuuid1:armhf (2.31.1-0.4ubuntu3, 2.31.1-0.4ubuntu3.7)
+End-Date: 2020-12-03  10:49:25
+
+Start-Date: 2020-12-03  10:49:38
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libx11-6:armhf (2:1.6.4-3ubuntu0.2, 2:1.6.4-3ubuntu0.3)
+End-Date: 2020-12-03  10:49:39
+
+Start-Date: 2020-12-03  10:49:53
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libx11-data:armhf (2:1.6.4-3ubuntu0.2, 2:1.6.4-3ubuntu0.3)
+End-Date: 2020-12-03  10:49:54
+
+Start-Date: 2020-12-03  10:50:08
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libzstd1:armhf (1.3.3+dfsg-2ubuntu1, 1.3.3+dfsg-2ubuntu1.1)
+End-Date: 2020-12-03  10:50:09
+
+Start-Date: 2020-12-03  10:50:22
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: mount:armhf (2.31.1-0.4ubuntu3, 2.31.1-0.4ubuntu3.7)
+End-Date: 2020-12-03  10:50:23
+
+Start-Date: 2020-12-03  10:50:37
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: perl-modules-5.26:armhf (5.26.1-6ubuntu0.3, 5.26.1-6ubuntu0.5)
+End-Date: 2020-12-03  10:50:42
+
+Start-Date: 2020-12-03  10:50:55
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: procps:armhf (2:3.3.12-3ubuntu1, 2:3.3.12-3ubuntu1.1)
+End-Date: 2020-12-03  10:51:00
+
+Start-Date: 2020-12-03  10:51:14
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python-cryptography:armhf (2.1.4-1ubuntu1.3, 2.1.4-1ubuntu1.4)
+End-Date: 2020-12-03  10:51:16
+
+Start-Date: 2020-12-03  10:51:30
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python-urllib3:armhf (1.22-1ubuntu0.18.04.1, 1.22-1ubuntu0.18.04.2)
+End-Date: 2020-12-03  10:51:32
+
+Start-Date: 2020-12-03  10:51:45
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python3-urllib3:armhf (1.22-1ubuntu0.18.04.1, 1.22-1ubuntu0.18.04.2)
+End-Date: 2020-12-03  10:51:49
+
+Start-Date: 2020-12-03  10:52:02
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: tzdata:armhf (2020a-0ubuntu0.18.04, 2020d-0ubuntu0.18.04)
+End-Date: 2020-12-03  10:52:09
+
+Start-Date: 2020-12-03  10:52:23
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: udhcpc:armhf (1:1.27.2-2ubuntu3.2, 1:1.27.2-2ubuntu3.3)
+End-Date: 2020-12-03  10:52:24
+
+Start-Date: 2020-12-03  10:52:37
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: udhcpd:armhf (1:1.27.2-2ubuntu3.2, 1:1.27.2-2ubuntu3.3)
+End-Date: 2020-12-03  10:52:43
+
+Start-Date: 2020-12-03  10:52:56
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: util-linux:armhf (2.31.1-0.4ubuntu3, 2.31.1-0.4ubuntu3.7)
+End-Date: 2020-12-03  10:53:07
+
+Start-Date: 2020-12-03  10:53:21
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: xxd:armhf (2:8.0.1453-1ubuntu1.3, 2:8.0.1453-1ubuntu1.4)
+End-Date: 2020-12-03  10:53:22
+
+Start-Date: 2020-12-03  10:53:35
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libbz2-1.0:armhf (1.0.6-8.1, 1.0.6-8.1ubuntu0.2), bzip2:armhf (1.0.6-8.1, 1.0.6-8.1ubuntu0.2)
+End-Date: 2020-12-03  10:53:37
+
+Start-Date: 2020-12-03  10:53:51
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libcurl4:armhf (7.58.0-2ubuntu3.9, 7.58.0-2ubuntu3.10), curl:armhf (7.58.0-2ubuntu3.9, 7.58.0-2ubuntu3.10)
+End-Date: 2020-12-03  10:53:52
+
+Start-Date: 2020-12-03  10:54:07
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: e2fsprogs:armhf (1.44.1-1, 1.44.1-1ubuntu1.3), libext2fs2:armhf (1.44.1-1, 1.44.1-1ubuntu1.3)
+End-Date: 2020-12-03  10:54:09
+
+Start-Date: 2020-12-03  10:54:23
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libldap-2.4-2:armhf (2.4.45+dfsg-1ubuntu1.6, 2.4.45+dfsg-1ubuntu1.8)
+End-Date: 2020-12-03  10:54:24
+
+Start-Date: 2020-12-03  10:54:39
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python3-software-properties:armhf (0.96.24.32.13, 0.96.24.32.14), software-properties-common:armhf (0.96.24.32.13, 0.96.24.32.14)
+End-Date: 2020-12-03  10:54:44
+
+Start-Date: 2020-12-03  10:54:58
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libkrb5-3:armhf (1.16-2ubuntu0.1, 1.16-2ubuntu0.2), libgssapi-krb5-2:armhf (1.16-2ubuntu0.1, 1.16-2ubuntu0.2), libkrb5support0:armhf (1.16-2ubuntu0.1, 1.16-2ubuntu0.2)
+End-Date: 2020-12-03  10:55:00
+
+Start-Date: 2020-12-03  10:55:14
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: vim-common:armhf (2:8.0.1453-1ubuntu1.3, 2:8.0.1453-1ubuntu1.4), vim-runtime:armhf (2:8.0.1453-1ubuntu1.3, 2:8.0.1453-1ubuntu1.4), vim:armhf (2:8.0.1453-1ubuntu1.3, 2:8.0.1453-1ubuntu1.4)
+End-Date: 2020-12-03  10:55:24
+
+Start-Date: 2020-12-03  10:55:39
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: perl-base:armhf (5.26.1-6ubuntu0.3, 5.26.1-6ubuntu0.5), libperl5.26:armhf (5.26.1-6ubuntu0.3, 5.26.1-6ubuntu0.5), perl:armhf (5.26.1-6ubuntu0.3, 5.26.1-6ubuntu0.5)
+End-Date: 2020-12-03  10:55:45
+
+Start-Date: 2020-12-03  10:56:01
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python2.7-minimal:armhf (2.7.17-1~18.04ubuntu1, 2.7.17-1~18.04ubuntu1.2), python2.7:armhf (2.7.17-1~18.04ubuntu1, 2.7.17-1~18.04ubuntu1.2), libpython2.7-minimal:armhf (2.7.17-1~18.04ubuntu1, 2.7.17-1~18.04ubuntu1.2), libpython2.7-stdlib:armhf (2.7.17-1~18.04ubuntu1, 2.7.17-1~18.04ubuntu1.2)
+End-Date: 2020-12-03  10:56:14
+
+Start-Date: 2020-12-03  10:56:29
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libpython3.6-minimal:armhf (3.6.9-1~18.04ubuntu1, 3.6.9-1~18.04ubuntu1.3), libpython3.6-stdlib:armhf (3.6.9-1~18.04ubuntu1, 3.6.9-1~18.04ubuntu1.3), libpython3.6:armhf (3.6.9-1~18.04ubuntu1, 3.6.9-1~18.04ubuntu1.3), python3.6:armhf (3.6.9-1~18.04ubuntu1, 3.6.9-1~18.04ubuntu1.3), python3.6-minimal:armhf (3.6.9-1~18.04ubuntu1, 3.6.9-1~18.04ubuntu1.3)
+End-Date: 2020-12-03  10:56:47
+
+Start-Date: 2020-12-03  10:57:02
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: gnupg-utils:armhf (2.2.4-1ubuntu1.2, 2.2.4-1ubuntu1.3), gpg-wks-client:armhf (2.2.4-1ubuntu1.2, 2.2.4-1ubuntu1.3), gnupg-l10n:armhf (2.2.4-1ubuntu1.2, 2.2.4-1ubuntu1.3), gpg-wks-server:armhf (2.2.4-1ubuntu1.2, 2.2.4-1ubuntu1.3), gpg:armhf (2.2.4-1ubuntu1.2, 2.2.4-1ubuntu1.3), dirmngr:armhf (2.2.4-1ubuntu1.2, 2.2.4-1ubuntu1.3), gpgv:armhf (2.2.4-1ubuntu1.2, 2.2.4-1ubuntu1.3), gnupg:armhf (2.2.4-1ubuntu1.2, 2.2.4-1ubuntu1.3), gpg-agent:armhf (2.2.4-1ubuntu1.2, 2.2.4-1ubuntu1.3), gpgconf:armhf (2.2.4-1ubuntu1.2, 2.2.4-1ubuntu1.3), gpgsm:armhf (2.2.4-1ubuntu1.2, 2.2.4-1ubuntu1.3)
+End-Date: 2020-12-03  10:57:06
+
+Start-Date: 2020-12-03  10:57:21
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: gnupg-agent:armhf (2.2.4-1ubuntu1.2, 2.2.4-1ubuntu1.3)
+End-Date: 2020-12-03  10:57:21
+
+Start-Date: 2020-12-04  16:30:52
+Commandline: apt-get install minicom
+Install: lrzsz:armhf (0.12.21-10~build0.18.04.1, automatic), minicom:armhf (2.7.1-1)
+End-Date: 2020-12-04  16:30:53

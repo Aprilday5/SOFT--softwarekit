@@ -1,0 +1,620 @@
+Log started: 2020-12-03  10:42:29
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23638 files and directories currently installed.)
+Preparing to unpack .../base-files_10.1ubuntu2.2_armhf.deb ...
+Warning: Stopping motd-news.service, but it can still be activated by:
+  motd-news.timer
+Unpacking base-files (10.1ubuntu2.2) over (10.1ubuntu2) ...
+Setting up base-files (10.1ubuntu2.2) ...
+Installing new version of config file /etc/issue ...
+Installing new version of config file /etc/issue.net ...
+Installing new version of config file /etc/lsb-release ...
+Installing new version of config file /etc/update-motd.d/50-motd-news ...
+motd-news.service is a disabled or a static unit, not starting it.
+Log ended: 2020-12-03  10:42:41
+
+Log started: 2020-12-03  10:42:49
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23638 files and directories currently installed.)
+Preparing to unpack .../bsdutils_1%3a2.31.1-0.4ubuntu3.7_armhf.deb ...
+Unpacking bsdutils (1:2.31.1-0.4ubuntu3.7) over (1:2.31.1-0.4ubuntu3) ...
+Setting up bsdutils (1:2.31.1-0.4ubuntu3.7) ...
+Log ended: 2020-12-03  10:42:55
+
+Log started: 2020-12-03  10:43:03
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23638 files and directories currently installed.)
+Preparing to unpack .../busybox_1%3a1.27.2-2ubuntu3.3_armhf.deb ...
+Unpacking busybox (1:1.27.2-2ubuntu3.3) over (1:1.27.2-2ubuntu3.2) ...
+Setting up busybox (1:1.27.2-2ubuntu3.3) ...
+Log ended: 2020-12-03  10:43:09
+
+Log started: 2020-12-03  10:43:17
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23638 files and directories currently installed.)
+Preparing to unpack .../ca-certificates_20201027ubuntu0.18.04.1_all.deb ...
+Unpacking ca-certificates (20201027ubuntu0.18.04.1) over (20190110~18.04.1) ...
+Setting up ca-certificates (20201027ubuntu0.18.04.1) ...
+Updating certificates in /etc/ssl/certs...
+20 added, 9 removed; done.
+Processing triggers for ca-certificates (20201027ubuntu0.18.04.1) ...
+Updating certificates in /etc/ssl/certs...
+0 added, 0 removed; done.
+Running hooks in /etc/ca-certificates/update.d...
+done.
+Log ended: 2020-12-03  10:43:53
+
+Log started: 2020-12-03  10:44:01
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../distro-info-data_0.37ubuntu0.9_all.deb ...
+Unpacking distro-info-data (0.37ubuntu0.9) over (0.37ubuntu0.7) ...
+Setting up distro-info-data (0.37ubuntu0.9) ...
+Log ended: 2020-12-03  10:44:07
+
+Log started: 2020-12-03  10:44:15
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../fdisk_2.31.1-0.4ubuntu3.7_armhf.deb ...
+Unpacking fdisk (2.31.1-0.4ubuntu3.7) over (2.31.1-0.4ubuntu3) ...
+Setting up fdisk (2.31.1-0.4ubuntu3.7) ...
+Log ended: 2020-12-03  10:44:21
+
+Log started: 2020-12-03  10:44:30
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../krb5-locales_1.16-2ubuntu0.2_all.deb ...
+Unpacking krb5-locales (1.16-2ubuntu0.2) over (1.16-2ubuntu0.1) ...
+Setting up krb5-locales (1.16-2ubuntu0.2) ...
+Log ended: 2020-12-03  10:44:35
+
+Log started: 2020-12-03  10:44:43
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libblkid1_2.31.1-0.4ubuntu3.7_armhf.deb ...
+Unpacking libblkid1:armhf (2.31.1-0.4ubuntu3.7) over (2.31.1-0.4ubuntu3) ...
+Setting up libblkid1:armhf (2.31.1-0.4ubuntu3.7) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-12-03  10:44:49
+
+Log started: 2020-12-03  10:44:58
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libc-bin_2.27-3ubuntu1.2_armhf.deb ...
+Unpacking libc-bin (2.27-3ubuntu1.2) over (2.27-3ubuntu1) ...
+Setting up libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:45:04
+
+Log started: 2020-12-03  10:45:13
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libc6_2.27-3ubuntu1.2_armhf.deb ...
+Unpacking libc6:armhf (2.27-3ubuntu1.2) over (2.27-3ubuntu1) ...
+Setting up libc6:armhf (2.27-3ubuntu1.2) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:45:23
+
+Log started: 2020-12-03  10:45:31
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libcom-err2_1.44.1-1ubuntu1.3_armhf.deb ...
+Unpacking libcom-err2:armhf (1.44.1-1ubuntu1.3) over (1.44.1-1) ...
+Setting up libcom-err2:armhf (1.44.1-1ubuntu1.3) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:45:37
+
+Log started: 2020-12-03  10:45:46
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libcurl3-gnutls_7.58.0-2ubuntu3.10_armhf.deb ...
+Unpacking libcurl3-gnutls:armhf (7.58.0-2ubuntu3.10) over (7.58.0-2ubuntu3.9) ...
+Setting up libcurl3-gnutls:armhf (7.58.0-2ubuntu3.10) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:45:52
+
+Log started: 2020-12-03  10:46:00
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libdb5.3_5.3.28-13.1ubuntu1.1_armhf.deb ...
+Unpacking libdb5.3:armhf (5.3.28-13.1ubuntu1.1) over (5.3.28-13.1ubuntu1) ...
+Setting up libdb5.3:armhf (5.3.28-13.1ubuntu1.1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:46:06
+
+Log started: 2020-12-03  10:46:14
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libdns-export1100_1%3a9.11.3+dfsg-1ubuntu1.13_armhf.deb ...
+Unpacking libdns-export1100 (1:9.11.3+dfsg-1ubuntu1.13) over (1:9.11.3+dfsg-1ubuntu1.12) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Setting up libdns-export1100 (1:9.11.3+dfsg-1ubuntu1.13) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:46:20
+
+Log started: 2020-12-03  10:46:28
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libfdisk1_2.31.1-0.4ubuntu3.7_armhf.deb ...
+Unpacking libfdisk1:armhf (2.31.1-0.4ubuntu3.7) over (2.31.1-0.4ubuntu3) ...
+Setting up libfdisk1:armhf (2.31.1-0.4ubuntu3.7) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:46:34
+
+Log started: 2020-12-03  10:46:42
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libgcrypt20_1.8.1-4ubuntu1.2_armhf.deb ...
+Unpacking libgcrypt20:armhf (1.8.1-4ubuntu1.2) over (1.8.1-4ubuntu1) ...
+Setting up libgcrypt20:armhf (1.8.1-4ubuntu1.2) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:46:49
+
+Log started: 2020-12-03  10:46:57
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libgnutls30_3.5.18-1ubuntu1.3_armhf.deb ...
+Unpacking libgnutls30:armhf (3.5.18-1ubuntu1.3) over (3.5.18-1ubuntu1) ...
+Setting up libgnutls30:armhf (3.5.18-1ubuntu1.3) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:47:03
+
+Log started: 2020-12-03  10:47:11
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libidn2-0_2.0.4-1.1ubuntu0.2_armhf.deb ...
+Unpacking libidn2-0:armhf (2.0.4-1.1ubuntu0.2) over (2.0.4-1.1build2) ...
+Setting up libidn2-0:armhf (2.0.4-1.1ubuntu0.2) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:47:17
+
+Log started: 2020-12-03  10:47:26
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libisc-export169_1%3a9.11.3+dfsg-1ubuntu1.13_armhf.deb ...
+Unpacking libisc-export169:armhf (1:9.11.3+dfsg-1ubuntu1.13) over (1:9.11.3+dfsg-1ubuntu1.12) ...
+Setting up libisc-export169:armhf (1:9.11.3+dfsg-1ubuntu1.13) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:47:31
+
+Log started: 2020-12-03  10:47:40
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libk5crypto3_1.16-2ubuntu0.2_armhf.deb ...
+Unpacking libk5crypto3:armhf (1.16-2ubuntu0.2) over (1.16-2ubuntu0.1) ...
+Setting up libk5crypto3:armhf (1.16-2ubuntu0.2) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:47:46
+
+Log started: 2020-12-03  10:47:55
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libldap-common_2.4.45+dfsg-1ubuntu1.8_all.deb ...
+Unpacking libldap-common (2.4.45+dfsg-1ubuntu1.8) over (2.4.45+dfsg-1ubuntu1.6) ...
+Setting up libldap-common (2.4.45+dfsg-1ubuntu1.8) ...
+Log ended: 2020-12-03  10:48:00
+
+Log started: 2020-12-03  10:48:09
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libmount1_2.31.1-0.4ubuntu3.7_armhf.deb ...
+Unpacking libmount1:armhf (2.31.1-0.4ubuntu3.7) over (2.31.1-0.4ubuntu3) ...
+Setting up libmount1:armhf (2.31.1-0.4ubuntu3.7) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:48:15
+
+Log started: 2020-12-03  10:48:23
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libprocps6_2%3a3.3.12-3ubuntu1.1_armhf.deb ...
+Unpacking libprocps6:armhf (2:3.3.12-3ubuntu1.1) over (2:3.3.12-3ubuntu1) ...
+Setting up libprocps6:armhf (2:3.3.12-3ubuntu1.1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:48:30
+
+Log started: 2020-12-03  10:48:38
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libsmartcols1_2.31.1-0.4ubuntu3.7_armhf.deb ...
+Unpacking libsmartcols1:armhf (2.31.1-0.4ubuntu3.7) over (2.31.1-0.4ubuntu3) ...
+Setting up libsmartcols1:armhf (2.31.1-0.4ubuntu3.7) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:48:44
+
+Log started: 2020-12-03  10:48:53
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libss2_1.44.1-1ubuntu1.3_armhf.deb ...
+Unpacking libss2:armhf (1.44.1-1ubuntu1.3) over (1.44.1-1) ...
+Setting up libss2:armhf (1.44.1-1ubuntu1.3) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:48:59
+
+Log started: 2020-12-03  10:49:07
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libssl1.0.0_1.0.2n-1ubuntu5.4_armhf.deb ...
+Unpacking libssl1.0.0:armhf (1.0.2n-1ubuntu5.4) over (1.0.2n-1ubuntu5.3) ...
+Setting up libssl1.0.0:armhf (1.0.2n-1ubuntu5.4) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:49:14
+
+Log started: 2020-12-03  10:49:22
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libuuid1_2.31.1-0.4ubuntu3.7_armhf.deb ...
+Unpacking libuuid1:armhf (2.31.1-0.4ubuntu3.7) over (2.31.1-0.4ubuntu3) ...
+Setting up libuuid1:armhf (2.31.1-0.4ubuntu3.7) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:49:28
+
+Log started: 2020-12-03  10:49:36
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libx11-6_2%3a1.6.4-3ubuntu0.3_armhf.deb ...
+Unpacking libx11-6:armhf (2:1.6.4-3ubuntu0.3) over (2:1.6.4-3ubuntu0.2) ...
+Setting up libx11-6:armhf (2:1.6.4-3ubuntu0.3) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:49:42
+
+Log started: 2020-12-03  10:49:51
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libx11-data_2%3a1.6.4-3ubuntu0.3_all.deb ...
+Unpacking libx11-data (2:1.6.4-3ubuntu0.3) over (2:1.6.4-3ubuntu0.2) ...
+Setting up libx11-data (2:1.6.4-3ubuntu0.3) ...
+Log ended: 2020-12-03  10:49:57
+
+Log started: 2020-12-03  10:50:06
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../libzstd1_1.3.3+dfsg-2ubuntu1.1_armhf.deb ...
+Unpacking libzstd1:armhf (1.3.3+dfsg-2ubuntu1.1) over (1.3.3+dfsg-2ubuntu1) ...
+Setting up libzstd1:armhf (1.3.3+dfsg-2ubuntu1.1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:50:12
+
+Log started: 2020-12-03  10:50:21
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../mount_2.31.1-0.4ubuntu3.7_armhf.deb ...
+Unpacking mount (2.31.1-0.4ubuntu3.7) over (2.31.1-0.4ubuntu3) ...
+Setting up mount (2.31.1-0.4ubuntu3.7) ...
+Log ended: 2020-12-03  10:50:26
+
+Log started: 2020-12-03  10:50:35
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../perl-modules-5.26_5.26.1-6ubuntu0.5_all.deb ...
+Unpacking perl-modules-5.26 (5.26.1-6ubuntu0.5) over (5.26.1-6ubuntu0.3) ...
+Setting up perl-modules-5.26 (5.26.1-6ubuntu0.5) ...
+Log ended: 2020-12-03  10:50:45
+
+Log started: 2020-12-03  10:50:53
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../procps_2%3a3.3.12-3ubuntu1.1_armhf.deb ...
+Unpacking procps (2:3.3.12-3ubuntu1.1) over (2:3.3.12-3ubuntu1) ...
+Setting up procps (2:3.3.12-3ubuntu1.1) ...
+Processing triggers for systemd (237-3ubuntu10.41) ...
+Log ended: 2020-12-03  10:51:03
+
+Log started: 2020-12-03  10:51:12
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../python-cryptography_2.1.4-1ubuntu1.4_armhf.deb ...
+Unpacking python-cryptography (2.1.4-1ubuntu1.4) over (2.1.4-1ubuntu1.3) ...
+Setting up python-cryptography (2.1.4-1ubuntu1.4) ...
+Log ended: 2020-12-03  10:51:19
+
+Log started: 2020-12-03  10:51:28
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../python-urllib3_1.22-1ubuntu0.18.04.2_all.deb ...
+Unpacking python-urllib3 (1.22-1ubuntu0.18.04.2) over (1.22-1ubuntu0.18.04.1) ...
+Setting up python-urllib3 (1.22-1ubuntu0.18.04.2) ...
+Log ended: 2020-12-03  10:51:35
+
+Log started: 2020-12-03  10:51:44
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../python3-urllib3_1.22-1ubuntu0.18.04.2_all.deb ...
+Unpacking python3-urllib3 (1.22-1ubuntu0.18.04.2) over (1.22-1ubuntu0.18.04.1) ...
+Setting up python3-urllib3 (1.22-1ubuntu0.18.04.2) ...
+Log ended: 2020-12-03  10:51:52
+
+Log started: 2020-12-03  10:52:01
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23649 files and directories currently installed.)
+Preparing to unpack .../tzdata_2020d-0ubuntu0.18.04_all.deb ...
+Unpacking tzdata (2020d-0ubuntu0.18.04) over (2020a-0ubuntu0.18.04) ...
+Setting up tzdata (2020d-0ubuntu0.18.04) ...
+
+Current default time zone: 'Asia/Shanghai'
+Local time is now:      Thu Dec  3 10:52:09 CST 2020.
+Universal Time is now:  Thu Dec  3 02:52:09 UTC 2020.
+Run 'dpkg-reconfigure tzdata' if you wish to change it.
+
+Log ended: 2020-12-03  10:52:12
+
+Log started: 2020-12-03  10:52:21
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23646 files and directories currently installed.)
+Preparing to unpack .../udhcpc_1%3a1.27.2-2ubuntu3.3_armhf.deb ...
+Unpacking udhcpc (1:1.27.2-2ubuntu3.3) over (1:1.27.2-2ubuntu3.2) ...
+Setting up udhcpc (1:1.27.2-2ubuntu3.3) ...
+Log ended: 2020-12-03  10:52:27
+
+Log started: 2020-12-03  10:52:35
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23646 files and directories currently installed.)
+Preparing to unpack .../udhcpd_1%3a1.27.2-2ubuntu3.3_armhf.deb ...
+Unpacking udhcpd (1:1.27.2-2ubuntu3.3) over (1:1.27.2-2ubuntu3.2) ...
+Setting up udhcpd (1:1.27.2-2ubuntu3.3) ...
+Processing triggers for systemd (237-3ubuntu10.41) ...
+Log ended: 2020-12-03  10:52:46
+
+Log started: 2020-12-03  10:52:54
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23646 files and directories currently installed.)
+Preparing to unpack .../util-linux_2.31.1-0.4ubuntu3.7_armhf.deb ...
+Unpacking util-linux (2.31.1-0.4ubuntu3.7) over (2.31.1-0.4ubuntu3) ...
+Setting up util-linux (2.31.1-0.4ubuntu3.7) ...
+Processing triggers for mime-support (3.60ubuntu1) ...
+Processing triggers for systemd (237-3ubuntu10.41) ...
+Log ended: 2020-12-03  10:53:10
+
+Log started: 2020-12-03  10:53:19
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23646 files and directories currently installed.)
+Preparing to unpack .../xxd_2%3a8.0.1453-1ubuntu1.4_armhf.deb ...
+Unpacking xxd (2:8.0.1453-1ubuntu1.4) over (2:8.0.1453-1ubuntu1.3) ...
+Setting up xxd (2:8.0.1453-1ubuntu1.4) ...
+Log ended: 2020-12-03  10:53:25
+
+Log started: 2020-12-03  10:53:34
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23646 files and directories currently installed.)
+Preparing to unpack .../bzip2_1.0.6-8.1ubuntu0.2_armhf.deb ...
+Unpacking bzip2 (1.0.6-8.1ubuntu0.2) over (1.0.6-8.1) ...
+Preparing to unpack .../libbz2-1.0_1.0.6-8.1ubuntu0.2_armhf.deb ...
+Unpacking libbz2-1.0:armhf (1.0.6-8.1ubuntu0.2) over (1.0.6-8.1) ...
+Setting up libbz2-1.0:armhf (1.0.6-8.1ubuntu0.2) ...
+Setting up bzip2 (1.0.6-8.1ubuntu0.2) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:53:40
+
+Log started: 2020-12-03  10:53:49
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23646 files and directories currently installed.)
+Preparing to unpack .../curl_7.58.0-2ubuntu3.10_armhf.deb ...
+Unpacking curl (7.58.0-2ubuntu3.10) over (7.58.0-2ubuntu3.9) ...
+Preparing to unpack .../libcurl4_7.58.0-2ubuntu3.10_armhf.deb ...
+Unpacking libcurl4:armhf (7.58.0-2ubuntu3.10) over (7.58.0-2ubuntu3.9) ...
+Setting up libcurl4:armhf (7.58.0-2ubuntu3.10) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Setting up curl (7.58.0-2ubuntu3.10) ...
+Log ended: 2020-12-03  10:53:56
+
+Log started: 2020-12-03  10:54:05
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23646 files and directories currently installed.)
+Preparing to unpack .../libext2fs2_1.44.1-1ubuntu1.3_armhf.deb ...
+Unpacking libext2fs2:armhf (1.44.1-1ubuntu1.3) over (1.44.1-1) ...
+Setting up libext2fs2:armhf (1.44.1-1ubuntu1.3) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23646 files and directories currently installed.)
+Preparing to unpack .../e2fsprogs_1.44.1-1ubuntu1.3_armhf.deb ...
+Unpacking e2fsprogs (1.44.1-1ubuntu1.3) over (1.44.1-1) ...
+Setting up e2fsprogs (1.44.1-1ubuntu1.3) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:54:12
+
+Log started: 2020-12-03  10:54:21
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23646 files and directories currently installed.)
+Preparing to unpack .../libldap-2.4-2_2.4.45+dfsg-1ubuntu1.8_armhf.deb ...
+Unpacking libldap-2.4-2:armhf (2.4.45+dfsg-1ubuntu1.8) over (2.4.45+dfsg-1ubuntu1.6) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Setting up libldap-2.4-2:armhf (2.4.45+dfsg-1ubuntu1.8) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:54:27
+
+Log started: 2020-12-03  10:54:37
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23646 files and directories currently installed.)
+Preparing to unpack .../software-properties-common_0.96.24.32.14_all.deb ...
+Unpacking software-properties-common (0.96.24.32.14) over (0.96.24.32.13) ...
+Preparing to unpack .../python3-software-properties_0.96.24.32.14_all.deb ...
+Unpacking python3-software-properties (0.96.24.32.14) over (0.96.24.32.13) ...
+Setting up python3-software-properties (0.96.24.32.14) ...
+Processing triggers for dbus (1.12.2-1ubuntu1.2) ...
+Setting up software-properties-common (0.96.24.32.14) ...
+Log ended: 2020-12-03  10:54:47
+
+Log started: 2020-12-03  10:54:56
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23646 files and directories currently installed.)
+Preparing to unpack .../libkrb5support0_1.16-2ubuntu0.2_armhf.deb ...
+Unpacking libkrb5support0:armhf (1.16-2ubuntu0.2) over (1.16-2ubuntu0.1) ...
+Preparing to unpack .../libgssapi-krb5-2_1.16-2ubuntu0.2_armhf.deb ...
+Unpacking libgssapi-krb5-2:armhf (1.16-2ubuntu0.2) over (1.16-2ubuntu0.1) ...
+Preparing to unpack .../libkrb5-3_1.16-2ubuntu0.2_armhf.deb ...
+Unpacking libkrb5-3:armhf (1.16-2ubuntu0.2) over (1.16-2ubuntu0.1) ...
+Setting up libkrb5support0:armhf (1.16-2ubuntu0.2) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Setting up libkrb5-3:armhf (1.16-2ubuntu0.2) ...
+Setting up libgssapi-krb5-2:armhf (1.16-2ubuntu0.2) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:55:03
+
+Log started: 2020-12-03  10:55:12
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23646 files and directories currently installed.)
+Preparing to unpack .../vim_2%3a8.0.1453-1ubuntu1.4_armhf.deb ...
+Unpacking vim (2:8.0.1453-1ubuntu1.4) over (2:8.0.1453-1ubuntu1.3) ...
+Preparing to unpack .../vim-runtime_2%3a8.0.1453-1ubuntu1.4_all.deb ...
+Unpacking vim-runtime (2:8.0.1453-1ubuntu1.4) over (2:8.0.1453-1ubuntu1.3) ...
+Preparing to unpack .../vim-common_2%3a8.0.1453-1ubuntu1.4_all.deb ...
+Unpacking vim-common (2:8.0.1453-1ubuntu1.4) over (2:8.0.1453-1ubuntu1.3) ...
+Processing triggers for mime-support (3.60ubuntu1) ...
+Setting up vim-common (2:8.0.1453-1ubuntu1.4) ...
+Setting up vim-runtime (2:8.0.1453-1ubuntu1.4) ...
+Setting up vim (2:8.0.1453-1ubuntu1.4) ...
+Log ended: 2020-12-03  10:55:27
+
+Log started: 2020-12-03  10:55:37
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23646 files and directories currently installed.)
+Preparing to unpack .../perl-base_5.26.1-6ubuntu0.5_armhf.deb ...
+Unpacking perl-base (5.26.1-6ubuntu0.5) over (5.26.1-6ubuntu0.3) ...
+Setting up perl-base (5.26.1-6ubuntu0.5) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23646 files and directories currently installed.)
+Preparing to unpack .../perl_5.26.1-6ubuntu0.5_armhf.deb ...
+Unpacking perl (5.26.1-6ubuntu0.5) over (5.26.1-6ubuntu0.3) ...
+Preparing to unpack .../libperl5.26_5.26.1-6ubuntu0.5_armhf.deb ...
+Unpacking libperl5.26:armhf (5.26.1-6ubuntu0.5) over (5.26.1-6ubuntu0.3) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Setting up libperl5.26:armhf (5.26.1-6ubuntu0.5) ...
+Setting up perl (5.26.1-6ubuntu0.5) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:55:49
+
+Log started: 2020-12-03  10:55:59
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23646 files and directories currently installed.)
+Preparing to unpack .../python2.7_2.7.17-1~18.04ubuntu1.2_armhf.deb ...
+Unpacking python2.7 (2.7.17-1~18.04ubuntu1.2) over (2.7.17-1~18.04ubuntu1) ...
+Preparing to unpack .../libpython2.7-stdlib_2.7.17-1~18.04ubuntu1.2_armhf.deb ...
+Unpacking libpython2.7-stdlib:armhf (2.7.17-1~18.04ubuntu1.2) over (2.7.17-1~18.04ubuntu1) ...
+Preparing to unpack .../python2.7-minimal_2.7.17-1~18.04ubuntu1.2_armhf.deb ...
+Unpacking python2.7-minimal (2.7.17-1~18.04ubuntu1.2) over (2.7.17-1~18.04ubuntu1) ...
+Preparing to unpack .../libpython2.7-minimal_2.7.17-1~18.04ubuntu1.2_armhf.deb ...
+Unpacking libpython2.7-minimal:armhf (2.7.17-1~18.04ubuntu1.2) over (2.7.17-1~18.04ubuntu1) ...
+Processing triggers for mime-support (3.60ubuntu1) ...
+Setting up libpython2.7-minimal:armhf (2.7.17-1~18.04ubuntu1.2) ...
+Setting up libpython2.7-stdlib:armhf (2.7.17-1~18.04ubuntu1.2) ...
+Setting up python2.7-minimal (2.7.17-1~18.04ubuntu1.2) ...
+Setting up python2.7 (2.7.17-1~18.04ubuntu1.2) ...
+Log ended: 2020-12-03  10:56:17
+
+Log started: 2020-12-03  10:56:27
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23646 files and directories currently installed.)
+Preparing to unpack .../libpython3.6_3.6.9-1~18.04ubuntu1.3_armhf.deb ...
+Unpacking libpython3.6:armhf (3.6.9-1~18.04ubuntu1.3) over (3.6.9-1~18.04ubuntu1) ...
+Preparing to unpack .../python3.6_3.6.9-1~18.04ubuntu1.3_armhf.deb ...
+Unpacking python3.6 (3.6.9-1~18.04ubuntu1.3) over (3.6.9-1~18.04ubuntu1) ...
+Preparing to unpack .../libpython3.6-stdlib_3.6.9-1~18.04ubuntu1.3_armhf.deb ...
+Unpacking libpython3.6-stdlib:armhf (3.6.9-1~18.04ubuntu1.3) over (3.6.9-1~18.04ubuntu1) ...
+Preparing to unpack .../python3.6-minimal_3.6.9-1~18.04ubuntu1.3_armhf.deb ...
+Unpacking python3.6-minimal (3.6.9-1~18.04ubuntu1.3) over (3.6.9-1~18.04ubuntu1) ...
+Preparing to unpack .../libpython3.6-minimal_3.6.9-1~18.04ubuntu1.3_armhf.deb ...
+Unpacking libpython3.6-minimal:armhf (3.6.9-1~18.04ubuntu1.3) over (3.6.9-1~18.04ubuntu1) ...
+Processing triggers for mime-support (3.60ubuntu1) ...
+Setting up libpython3.6-minimal:armhf (3.6.9-1~18.04ubuntu1.3) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Setting up libpython3.6-stdlib:armhf (3.6.9-1~18.04ubuntu1.3) ...
+Setting up python3.6-minimal (3.6.9-1~18.04ubuntu1.3) ...
+Setting up libpython3.6:armhf (3.6.9-1~18.04ubuntu1.3) ...
+Setting up python3.6 (3.6.9-1~18.04ubuntu1.3) ...
+Processing triggers for libc-bin (2.27-3ubuntu1.2) ...
+Log ended: 2020-12-03  10:56:50
+
+Log started: 2020-12-03  10:57:00
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23646 files and directories currently installed.)
+Preparing to unpack .../00-gpg-wks-client_2.2.4-1ubuntu1.3_armhf.deb ...
+Unpacking gpg-wks-client (2.2.4-1ubuntu1.3) over (2.2.4-1ubuntu1.2) ...
+Preparing to unpack .../01-dirmngr_2.2.4-1ubuntu1.3_armhf.deb ...
+Unpacking dirmngr (2.2.4-1ubuntu1.3) over (2.2.4-1ubuntu1.2) ...
+Preparing to unpack .../02-gnupg-l10n_2.2.4-1ubuntu1.3_all.deb ...
+Unpacking gnupg-l10n (2.2.4-1ubuntu1.3) over (2.2.4-1ubuntu1.2) ...
+Preparing to unpack .../03-gpg_2.2.4-1ubuntu1.3_armhf.deb ...
+Unpacking gpg (2.2.4-1ubuntu1.3) over (2.2.4-1ubuntu1.2) ...
+Preparing to unpack .../04-gnupg-utils_2.2.4-1ubuntu1.3_armhf.deb ...
+Unpacking gnupg-utils (2.2.4-1ubuntu1.3) over (2.2.4-1ubuntu1.2) ...
+Preparing to unpack .../05-gpg-agent_2.2.4-1ubuntu1.3_armhf.deb ...
+Unpacking gpg-agent (2.2.4-1ubuntu1.3) over (2.2.4-1ubuntu1.2) ...
+Preparing to unpack .../06-gpgsm_2.2.4-1ubuntu1.3_armhf.deb ...
+Unpacking gpgsm (2.2.4-1ubuntu1.3) over (2.2.4-1ubuntu1.2) ...
+Preparing to unpack .../07-gpgconf_2.2.4-1ubuntu1.3_armhf.deb ...
+Unpacking gpgconf (2.2.4-1ubuntu1.3) over (2.2.4-1ubuntu1.2) ...
+Preparing to unpack .../08-gnupg_2.2.4-1ubuntu1.3_armhf.deb ...
+Unpacking gnupg (2.2.4-1ubuntu1.3) over (2.2.4-1ubuntu1.2) ...
+Preparing to unpack .../09-gpg-wks-server_2.2.4-1ubuntu1.3_armhf.deb ...
+Unpacking gpg-wks-server (2.2.4-1ubuntu1.3) over (2.2.4-1ubuntu1.2) ...
+Preparing to unpack .../10-gpgv_2.2.4-1ubuntu1.3_armhf.deb ...
+Unpacking gpgv (2.2.4-1ubuntu1.3) over (2.2.4-1ubuntu1.2) ...
+Setting up gpgv (2.2.4-1ubuntu1.3) ...
+Setting up gpgconf (2.2.4-1ubuntu1.3) ...
+Setting up gpg-agent (2.2.4-1ubuntu1.3) ...
+Setting up gnupg-l10n (2.2.4-1ubuntu1.3) ...
+Setting up gpgsm (2.2.4-1ubuntu1.3) ...
+Setting up gnupg-utils (2.2.4-1ubuntu1.3) ...
+Setting up dirmngr (2.2.4-1ubuntu1.3) ...
+Setting up gpg (2.2.4-1ubuntu1.3) ...
+Setting up gpg-wks-server (2.2.4-1ubuntu1.3) ...
+Setting up gpg-wks-client (2.2.4-1ubuntu1.3) ...
+Setting up gnupg (2.2.4-1ubuntu1.3) ...
+Log ended: 2020-12-03  10:57:10
+
+Log started: 2020-12-03  10:57:19
+debconf: delaying package configuration, since apt-utils is not installed
+debconf: delaying package configuration, since apt-utils is not installed
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23646 files and directories currently installed.)
+Preparing to unpack .../gnupg-agent_2.2.4-1ubuntu1.3_all.deb ...
+Unpacking gnupg-agent (2.2.4-1ubuntu1.3) over (2.2.4-1ubuntu1.2) ...
+Setting up gnupg-agent (2.2.4-1ubuntu1.3) ...
+Log ended: 2020-12-03  10:57:24
+

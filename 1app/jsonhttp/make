@@ -1,0 +1,1 @@
+gcc cJSON.c test.c -o /usr/local/thttpd/www/cgi-bin/testcgi.cgi  -lm  

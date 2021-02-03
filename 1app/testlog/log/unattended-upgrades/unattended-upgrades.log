@@ -1,0 +1,29 @@
+2020-12-03 10:21:55,485 INFO Initial blacklisted packages: 
+2020-12-03 10:21:55,490 INFO Initial whitelisted packages: 
+2020-12-03 10:21:55,490 INFO Starting unattended upgrades script
+2020-12-03 10:21:55,491 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-12-03 10:31:14,745 INFO Initial blacklisted packages: 
+2020-12-03 10:31:14,750 INFO Initial whitelisted packages: 
+2020-12-03 10:31:14,750 INFO Starting unattended upgrades script
+2020-12-03 10:31:14,751 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-12-03 10:40:15,111 INFO Packages that will be upgraded: base-files bsdutils busybox bzip2 ca-certificates curl dirmngr distro-info-data e2fsprogs fdisk gnupg gnupg-agent gnupg-l10n gnupg-utils gpg gpg-agent gpg-wks-client gpg-wks-server gpgconf gpgsm gpgv krb5-locales libblkid1 libbz2-1.0 libc-bin libc6 libcom-err2 libcurl3-gnutls libcurl4 libdb5.3 libdns-export1100 libext2fs2 libfdisk1 libgcrypt20 libgnutls30 libgssapi-krb5-2 libidn2-0 libisc-export169 libk5crypto3 libkrb5-3 libkrb5support0 libldap-2.4-2 libldap-common libmount1 libperl5.26 libprocps6 libpython2.7-minimal libpython2.7-stdlib libpython3.6 libpython3.6-minimal libpython3.6-stdlib libsmartcols1 libss2 libssl1.0.0 libuuid1 libx11-6 libx11-data libzstd1 mount perl perl-base perl-modules-5.26 procps python-cryptography python-urllib3 python2.7 python2.7-minimal python3-software-properties python3-urllib3 python3.6 python3.6-minimal software-properties-common tzdata udhcpc udhcpd util-linux vim vim-common vim-runtime xxd
+2020-12-03 10:40:15,113 INFO Writing dpkg log to /var/log/unattended-upgrades/unattended-upgrades-dpkg.log
+2020-12-03 10:57:29,282 INFO All upgrades installed
+2020-12-04 08:46:49,238 INFO Initial blacklisted packages: 
+2020-12-04 08:46:49,243 INFO Initial whitelisted packages: 
+2020-12-04 08:46:49,244 INFO Starting unattended upgrades script
+2020-12-04 08:46:49,245 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-12-04 08:47:20,911 INFO Initial blacklisted packages: 
+2020-12-04 08:47:20,916 INFO Initial whitelisted packages: 
+2020-12-04 08:47:20,916 INFO Starting unattended upgrades script
+2020-12-04 08:47:20,917 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-12-04 08:47:47,236 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-12-06 15:16:10,168 INFO Initial blacklisted packages: 
+2020-12-06 15:16:10,173 INFO Initial whitelisted packages: 
+2020-12-06 15:16:10,174 INFO Starting unattended upgrades script
+2020-12-06 15:16:10,175 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-12-06 15:16:41,783 INFO Initial blacklisted packages: 
+2020-12-06 15:16:41,787 INFO Initial whitelisted packages: 
+2020-12-06 15:16:41,788 INFO Starting unattended upgrades script
+2020-12-06 15:16:41,789 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-12-06 15:17:07,834 INFO No packages found that can be upgraded unattended and no pending auto-removals

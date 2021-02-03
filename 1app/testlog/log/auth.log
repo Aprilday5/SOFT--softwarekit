@@ -1,0 +1,113 @@
+Jan 28 23:58:24 ubuntu systemd-logind[2195]: New seat seat0.
+Jan 28 23:58:24 ubuntu systemd-logind[2195]: Watching system buttons on /dev/input/event1 (axp22x-powerkey)
+Jan 28 23:58:31 ubuntu sshd[2598]: Server listening on 0.0.0.0 port 22.
+Jan 28 23:58:31 ubuntu sshd[2598]: Server listening on :: port 22.
+Jan 28 23:58:47 ubuntu login[2608]: pam_unix(login:account): account root has password changed in future
+Jan 28 23:58:47 ubuntu login[2608]: pam_unix(login:session): session opened for user root by LOGIN(uid=0)
+Jan 28 23:58:47 ubuntu systemd-logind[2195]: New session c1 of user root.
+Jan 28 23:58:47 ubuntu systemd: pam_unix(systemd-user:account): account root has password changed in future
+Jan 28 23:58:47 ubuntu systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Jan 28 23:58:48 ubuntu login[3001]: ROOT LOGIN  on '/dev/ttyS0'
+Dec  3 11:17:01 ubuntu CRON[15779]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  3 11:17:01 ubuntu CRON[15779]: pam_unix(cron:session): session closed for user root
+Dec  3 12:17:01 ubuntu CRON[21135]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  3 12:17:01 ubuntu CRON[21135]: pam_unix(cron:session): session closed for user root
+Dec  3 13:17:01 ubuntu CRON[26479]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  3 13:17:01 ubuntu CRON[26479]: pam_unix(cron:session): session closed for user root
+Dec  3 14:17:02 ubuntu CRON[31824]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  3 14:17:02 ubuntu CRON[31824]: pam_unix(cron:session): session closed for user root
+Dec  3 15:17:01 ubuntu CRON[4786]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  3 15:17:01 ubuntu CRON[4786]: pam_unix(cron:session): session closed for user root
+Dec  3 16:17:01 ubuntu CRON[10130]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  3 16:17:01 ubuntu CRON[10130]: pam_unix(cron:session): session closed for user root
+Dec  3 17:17:01 ubuntu CRON[15478]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  3 17:17:01 ubuntu CRON[15478]: pam_unix(cron:session): session closed for user root
+Dec  3 18:17:01 ubuntu CRON[20823]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  3 18:17:01 ubuntu CRON[20823]: pam_unix(cron:session): session closed for user root
+Dec  3 17:46:54 ubuntu systemd-logind[2199]: New seat seat0.
+Dec  3 17:46:54 ubuntu systemd-logind[2199]: Watching system buttons on /dev/input/event1 (axp22x-powerkey)
+Dec  3 17:47:01 ubuntu sshd[2647]: Server listening on 0.0.0.0 port 22.
+Dec  3 17:47:01 ubuntu sshd[2647]: Server listening on :: port 22.
+Dec  4 09:17:01 ubuntu CRON[3649]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  4 09:17:01 ubuntu CRON[3649]: pam_unix(cron:session): session closed for user root
+Dec  4 10:17:01 ubuntu CRON[3697]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  4 10:17:01 ubuntu CRON[3697]: pam_unix(cron:session): session closed for user root
+Dec  4 11:04:22 ubuntu login[2627]: pam_unix(login:session): session opened for user root by LOGIN(uid=0)
+Dec  4 11:04:22 ubuntu systemd-logind[2199]: New session c1 of user root.
+Dec  4 11:04:22 ubuntu systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Dec  4 11:04:23 ubuntu login[3816]: ROOT LOGIN  on '/dev/ttyS0'
+Dec  4 11:12:39 ubuntu sshd[4588]: Accepted password for root from 192.168.200.73 port 64537 ssh2
+Dec  4 11:12:39 ubuntu sshd[4588]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Dec  4 11:12:39 ubuntu systemd-logind[2199]: New session c2 of user root.
+Dec  4 11:13:02 ubuntu sshd[4656]: Accepted password for root from 192.168.200.73 port 64543 ssh2
+Dec  4 11:13:02 ubuntu sshd[4656]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Dec  4 11:13:02 ubuntu systemd-logind[2199]: New session c3 of user root.
+Dec  4 11:15:02 ubuntu sshd[4656]: pam_unix(sshd:session): session closed for user root
+Dec  4 11:15:02 ubuntu systemd-logind[2199]: Removed session c3.
+Dec  4 11:17:01 ubuntu CRON[5043]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  4 11:17:02 ubuntu CRON[5043]: pam_unix(cron:session): session closed for user root
+Dec  4 12:17:01 ubuntu CRON[10386]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  4 12:17:01 ubuntu CRON[10386]: pam_unix(cron:session): session closed for user root
+Dec  4 13:17:01 ubuntu CRON[15730]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  4 13:17:01 ubuntu CRON[15730]: pam_unix(cron:session): session closed for user root
+Dec  4 14:17:01 ubuntu CRON[21076]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  4 14:17:01 ubuntu CRON[21076]: pam_unix(cron:session): session closed for user root
+Dec  4 15:17:01 ubuntu CRON[26421]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  4 15:17:01 ubuntu CRON[26421]: pam_unix(cron:session): session closed for user root
+Dec  4 16:17:01 ubuntu CRON[31767]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  4 16:17:01 ubuntu CRON[31767]: pam_unix(cron:session): session closed for user root
+Dec  4 16:36:04 ubuntu sshd[1073]: Accepted password for root from 192.168.200.73 port 51929 ssh2
+Dec  4 16:36:04 ubuntu sshd[1073]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Dec  4 16:36:04 ubuntu systemd-logind[2199]: New session c4 of user root.
+Dec  4 16:36:34 ubuntu sshd[1143]: Accepted password for root from 192.168.200.73 port 51939 ssh2
+Dec  4 16:36:34 ubuntu sshd[1143]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Dec  4 16:36:34 ubuntu systemd-logind[2199]: New session c5 of user root.
+Dec  4 16:37:40 ubuntu sshd[1143]: pam_unix(sshd:session): session closed for user root
+Dec  4 16:37:40 ubuntu systemd-logind[2199]: Removed session c5.
+Dec  4 17:17:01 ubuntu CRON[4828]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  4 17:17:02 ubuntu CRON[4828]: pam_unix(cron:session): session closed for user root
+Dec  4 17:51:39 ubuntu sshd[4588]: pam_unix(sshd:session): session closed for user root
+Dec  4 17:51:39 ubuntu systemd-logind[2199]: Removed session c2.
+Dec  4 18:17:01 ubuntu CRON[10174]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  4 18:17:01 ubuntu CRON[10174]: pam_unix(cron:session): session closed for user root
+Dec  4 15:35:28 ubuntu systemd-logind[2343]: New seat seat0.
+Dec  4 15:35:28 ubuntu systemd-logind[2343]: Watching system buttons on /dev/input/event1 (axp22x-powerkey)
+Dec  4 15:40:27 ubuntu sshd[2561]: Server listening on 0.0.0.0 port 22.
+Dec  4 15:40:27 ubuntu sshd[2561]: Server listening on :: port 22.
+Dec  4 16:17:01 ubuntu CRON[2982]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  4 16:17:01 ubuntu CRON[2982]: pam_unix(cron:session): session closed for user root
+Dec  4 17:17:01 ubuntu CRON[3015]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  4 17:17:01 ubuntu CRON[3015]: pam_unix(cron:session): session closed for user root
+Dec  4 18:17:01 ubuntu CRON[3036]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  4 18:17:01 ubuntu CRON[3036]: pam_unix(cron:session): session closed for user root
+Dec  4 19:17:01 ubuntu CRON[3058]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  4 19:17:01 ubuntu CRON[3058]: pam_unix(cron:session): session closed for user root
+Dec  4 15:35:27 ubuntu systemd-logind[2365]: New seat seat0.
+Dec  4 15:35:27 ubuntu systemd-logind[2365]: Watching system buttons on /dev/input/event1 (axp22x-powerkey)
+Dec  4 15:40:26 ubuntu sshd[2619]: Server listening on 0.0.0.0 port 22.
+Dec  4 15:40:26 ubuntu sshd[2619]: Server listening on :: port 22.
+Dec  4 15:43:52 ubuntu login[2588]: pam_unix(login:session): session opened for user root by LOGIN(uid=0)
+Dec  4 15:43:53 ubuntu systemd-logind[2365]: New session c1 of user root.
+Dec  4 15:43:53 ubuntu systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Dec  4 15:43:53 ubuntu login[3017]: ROOT LOGIN  on '/dev/ttyS0'
+Dec  4 16:10:39 ubuntu sshd[5487]: Accepted password for root from 192.168.200.73 port 57545 ssh2
+Dec  4 16:10:39 ubuntu sshd[5487]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Dec  4 16:10:39 ubuntu systemd-logind[2365]: New session c2 of user root.
+Dec  6 15:15:45 ubuntu sshd[5629]: Accepted password for root from 192.168.200.73 port 57548 ssh2
+Dec  6 15:15:45 ubuntu sshd[5629]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Dec  6 15:15:45 ubuntu systemd-logind[2365]: New session c3 of user root.
+Dec  6 15:16:57 ubuntu sshd[5629]: pam_unix(sshd:session): session closed for user root
+Dec  6 15:16:57 ubuntu systemd-logind[2365]: Removed session c3.
+Dec  6 15:17:01 ubuntu CRON[6283]: pam_unix(cron:session): session opened for user root by (uid=0)
+Dec  6 15:17:01 ubuntu CRON[6283]: pam_unix(cron:session): session closed for user root
+Dec  6 15:28:22 ubuntu sshd[7341]: Accepted password for root from 192.168.200.73 port 57643 ssh2
+Dec  6 15:28:22 ubuntu sshd[7341]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Dec  6 15:28:22 ubuntu systemd-logind[2365]: New session c4 of user root.
+Dec  6 15:29:24 ubuntu sshd[7341]: pam_unix(sshd:session): session closed for user root
+Dec  6 15:29:24 ubuntu systemd-logind[2365]: Removed session c4.
+Dec  6 15:31:18 ubuntu sshd[7665]: Accepted password for root from 192.168.200.73 port 57670 ssh2
+Dec  6 15:31:18 ubuntu sshd[7666]: Accepted password for root from 192.168.200.73 port 57669 ssh2
+Dec  6 15:31:18 ubuntu sshd[7665]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Dec  6 15:31:18 ubuntu sshd[7666]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Dec  6 15:31:18 ubuntu systemd-logind[2365]: New session c5 of user root.
+Dec  6 15:31:18 ubuntu systemd-logind[2365]: New session c6 of user root.
