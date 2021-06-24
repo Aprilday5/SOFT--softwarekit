@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFile>
+    <Header fileType="Ulog" fileVer="1" devName="测试"/>
+    <DataRec num="6">
+        <DI logType="1" tm="160813_180000_011" txt="日志" val="1"/>
+        <DI logType="2" tm="160813_180000_012" txt="测试日志" val="2"/>
+        <DI logType="3" tm="160813_180000_013" txt="测试日志" val="3"/>
+        <DI logType="4" tm="160813_180000_014" txt="测试日志" val="4"/>
+        <DI logType="7" tm="160813_180000_011" txt="日志5" val="1"/>
+        <DI logType="6" tm="160813_180000_016" txt="测试日志" val="6"/>
+    </DataRec>
+</DataFile>

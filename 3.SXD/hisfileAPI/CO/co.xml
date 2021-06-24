@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFile>
+    <Header fileType="CO" fileVer="1" devName="测试"/>
+    <DataRec num="9">
+        <DI ioa="900" tm="bwd" cmd="ab" val="1"/>
+        <DI ioa="900" tm="bwd" cmd="ab" val="1"/>
+        <DI ioa="900" tm="bwd" cmd="ab" val="1"/>
+        <DI ioa="900" tm="bwd" cmd="ab" val="1"/>
+        <DI ioa="900" tm="bwd" cmd="ab" val="1"/>
+        <DI ioa="900" tm="bwd" cmd="ab" val="1"/>
+        <DI ioa="900" tm="bwd" cmd="ab" val="1"/>
+        <DI ioa="900" tm="bwd" cmd="ab" val="1"/>
+        <DI ioa="900" tm="bwd" cmd="ab" val="1"/>
+    </DataRec>
+</DataFile>

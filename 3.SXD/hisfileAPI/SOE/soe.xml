@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFile>
+    <Header fileType="SOE" fileVer="1" devName="测试"/>
+    <DataRec num="2">
+        <DI ioa="900" tm="bwd" val="1"/>
+        <DI ioa="900" tm="bwd" val="1"/>
+    </DataRec>
+</DataFile>
